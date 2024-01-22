@@ -1,8 +1,11 @@
-# Welcome, I'm [Your Name] 👋
+# Welcome, I'm Michele  👋
 
 ## 🌐 Aspiring Full Stack Developer | 🎮 Game Development Enthusiast
 
-I'm an emerging full-stack web developer, delving into the realms of both front-end and back-end technologies. Eager to learn and grow, I am passionate about React, Node.js, and exploring the endless possibilities of web development. By night, I dabble in the world of game development, embracing the logic and creativity it offers.
+Hi again, I'm Michele pronunce y name in any way you fell like!
+I'm an emerging full-stack web developer, delving into the realms of both front-end and back-end technologies. 
+Eager to learn and grow, I am passionate about React, Node.js, and exploring the endless possibilities of web development.
+By night, I dabble in the world of game development, embracing the logic and creativity it offers.
 
 ### About Me
 
