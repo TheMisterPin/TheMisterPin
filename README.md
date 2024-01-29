@@ -22,15 +22,18 @@ By night, I dabble in the world of game development, embracing the logic and cre
 - 📌 Front-end: React, Next.js, Typescript
 - 🔧 Back-end: Node.js, Express, SQL, Mongoose, Prisma
 - 🌐 Database and Auth: Experience with SQL databases and implementing authentication mechanisms
-
-
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,github,replit,html,css,js,typescript,react,styledcomponents,vite,tailwind,bootstrap,unity,express,mongodb,postgres,mysql,sequelize,mui,nextjs,prisma,vercel,jenkins,vitest&perline=8" />
+  </a>
+</p>
 ### Let's Connect!
 
 I'm always open to connect with fellow developers, mentors, and anyone passionate about technology.
 
-- LinkedIn: [Your LinkedIn](Your-LinkedIn-URL)
-- GitHub: [@YourGitHubUsername](Your-GitHub-URL)
-- Portfolio: [YourWebsite.com](Your-Website-URL)
+- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/michele-pin-6664751a5/)]
+- GitHub: [@TheMisterPin](https://github.com/TheMisterPin/)
 
 ---
 
