@@ -1,6 +1,6 @@
 # Welcome, I'm Michele  👋
 
-## 🌐 Aspiring Full Stack Developer | 🎮 Game Development Enthusiast
+## 🌐  Full Stack Developer | 🎮 Game Development Enthusiast
 
 Hi again, I'm Michele pronunce y name in any way you fell like!
 I'm an emerging full-stack web developer, delving into the realms of both front-end and back-end technologies. 
