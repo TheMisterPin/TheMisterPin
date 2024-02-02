@@ -1,6 +1,6 @@
 # Welcome, I'm Michele  👋
 
-## 🌐  Full Stack Developer | 🎮 Game Development Enthusiast
+## 🌐  Full Stack Developer 
 
 Hi again, I'm Michele,
 Feel free to say my name in any way you fell like!
