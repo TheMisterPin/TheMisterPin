@@ -17,8 +17,9 @@ By night, I dabble in the world of game development, embracing the logic and cre
 - 🤝 Collaboration: Keen on contributing to open-source projects and learning from the community.
 - 📫 How to reach me: devMisterPin@gmail.com
 - ⚡ Fun fact: When not coding, I cook, play (production ready) videogames, and enjoy a fine whiskey.
-
-### Languages and Tools:
+<div align="center">
+  
+## Languages and Tools:
 
 - 📌 Front-end: React, Next.js, Typescript
 - 🔧 Back-end: Node.js, Express, SQL, Mongoose, Prisma
@@ -30,15 +31,33 @@ By night, I dabble in the world of game development, embracing the logic and cre
   </a>
 </p>
 
-### What I do here 
+## What I'm learning
 
- <p align="center">                                                 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheMisterPin&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
-</a>
+ <p align="center">                                               
+<img src="https://skillicons.dev/icons?i=graphql,python,cs,vue,mui,couchdb&perline=8" />
+ </p>
+
+
+  
+## What I do here 
+
+                                         
+<p aligm="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheMisterPin&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" /> 
+</p>
+  <br>
+
+
+<p align="center">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=TheMisterPin&theme=github_dark_dimmed&card_width=320&amp;rank_icon=github" />
 </p>
 
-### Let's Connect!
 
+  
+
+## Let's Connect!
+
+</div>
 I'm always open to connect with fellow developers, mentors, and anyone passionate about technology.
 
 - LinkedIn: [[Michele Pin](https://www.linkedin.com/in/michele-pin-6664751a5/)]
