@@ -15,7 +15,7 @@ By night, I dabble in the world of game development, embracing the logic and cre
 - 🕹️ Night-time hobby: Exploring the fundamentals of game development on Unity.
 - 💡 Philosophy: "Give me a context, and I’ll elevate the world." In a love affair with the React Echosystem.
 - 🤝 Collaboration: Keen on contributing to open-source projects and learning from the community.
-- 📫 How to reach me: devMisterPin@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michele-pin-6664751a5/)] [Email](pin.michele23@gmail.com)]
 - ⚡ Fun fact: When not coding, I cook, play (production ready) videogames, and enjoy a fine whiskey.
 <div align="center">
   
