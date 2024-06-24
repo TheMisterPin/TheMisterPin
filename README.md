@@ -39,12 +39,15 @@ By night, I dabble in the world of game development, embracing the logic and cre
 
 
 ## What I'm working on
- <p align="center">                                               
+
+<p align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMisterPin&repo=justpark-back&theme=github_dark_dimmed)](https://github.com/TheMisterPin/justpark-back)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMisterPin&repo=notes-master&theme=github_dark_dimmed)](https://github.com/TheMisterPin/notes-master)
 
- </p>
+
+
+</p>
+
 
 
   
