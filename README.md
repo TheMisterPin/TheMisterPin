@@ -75,7 +75,7 @@ Currently based in California.
 ## Connect
 
 LinkedIn  
-https://www.linkedin.com/in/michele-pin-6664751a5/
+https://www.linkedin.com/in/michele-pin
 
 GitHub  
 https://github.com/TheMisterPin
